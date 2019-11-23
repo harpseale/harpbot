@@ -7,7 +7,6 @@ require("firebase/database");
 require("firebase/firestore");
 require("firebase/messaging");
 require("firebase/functions");
-var portscanner = require('portscanner');
 var trm
 var testChannel;
 var generalChannel;
@@ -276,5 +275,5 @@ client.on("voiceStateUpdate", function (oldMember, newMember) {
 	}
 });
 
-client.login('Mzg2MDM5NDU0Mjk4NTM3OTg0.DisJXQ.A9J-jAESLo16K3Zs1uDhGdjM2sE');
+client.login('Mzg2MDM5NDU0Mjk4NTM3OTg0.XdipSQ.Odw4mnqROQfCJT7J3cJfuJa8A8k');
 
