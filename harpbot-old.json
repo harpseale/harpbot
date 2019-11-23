@@ -1,0 +1,81 @@
+{
+  "users" : {
+    "219821521550573571" : {
+      "joinTime" : 0,
+      "lastActive" : 1544200136000,
+      "totalTime" : 5317000,
+      "username" : "potato"
+    },
+    "235088799074484224" : {
+      "joinTime" : 0,
+      "lastActive" : 1544068387000,
+      "totalTime" : 17060000,
+      "username" : "Rythm"
+    },
+    "242441002260889600" : {
+      "joinTime" : 0,
+      "lastActive" : 1544169911000,
+      "totalTime" : 787000,
+      "username" : "SkyArrow"
+    },
+    "268034984584019971" : {
+      "joinTime" : 0,
+      "lastActive" : 1544244385000,
+      "totalTime" : 244742000,
+      "username" : "ZachOTronix"
+    },
+    "285297365093580811" : {
+      "joinTime" : 0,
+      "lastActive" : 1544774815000,
+      "totalTime" : 383224000,
+      "username" : "harpseal"
+    },
+    "294804272254812160" : {
+      "joinTime" : 0,
+      "lastActive" : 1543593666000,
+      "totalTime" : 2762000,
+      "username" : "spøøky jøs"
+    },
+    "297712533828272130" : {
+      "joinTime" : 0,
+      "lastActive" : 1544081081000,
+      "totalTime" : 101000,
+      "username" : "BagnTag"
+    },
+    "298069703233110016" : {
+      "joinTime" : 0,
+      "lastActive" : 1544200143000,
+      "totalTime" : 195815000,
+      "username" : "GiveWaverPls"
+    },
+    "298764971507056640" : {
+      "joinTime" : 0,
+      "lastActive" : 1544104071000,
+      "totalTime" : 32492000,
+      "username" : "pv"
+    },
+    "299882285577011210" : {
+      "joinTime" : 0,
+      "lastActive" : 1544244550000,
+      "totalTime" : 132486000,
+      "username" : "kzfsg"
+    },
+    "303041875202539521" : {
+      "joinTime" : 0,
+      "lastActive" : 1543849015000,
+      "totalTime" : 9122000,
+      "username" : "Jinx"
+    },
+    "318568656906747904" : {
+      "joinTime" : 0,
+      "lastActive" : 1544780540000,
+      "totalTime" : 102931000,
+      "username" : "FallenFrost"
+    },
+    "449511186254528512" : {
+      "joinTime" : 0,
+      "totalTime" : 44000,
+      "username" : "amphoteric"
+    }
+  }
+}

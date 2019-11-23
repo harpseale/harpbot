@@ -1,0 +1,30 @@
+{
+  "name": "harpbot",
+  "version": "1.0.0",
+  "description": "harpbot",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bbot\u001b[C\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhs-harpseal/harpbot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord.js",
+    "heroku"
+  ],
+  "author": "harpseal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhs-harpseal/harpbot/issues"
+  },
+  "homepage": "https://github.com/dhs-harpseal/harpbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.1",
+    "firebase": "5.5.9",
+    "portscanner": "^2.2.0"
+  }
+}
