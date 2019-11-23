@@ -1,5 +1,3 @@
-const Discord = require('discord.js');
-const { Client, RichEmbed } = require('discord.js');
 const client = new Discord.Client();
 var firebase = require("firebase/app");
 require("firebase/auth");
